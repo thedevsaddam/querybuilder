@@ -1,6 +1,6 @@
 //author: Saddam H
 //author email: thedevsaddam@gmail.com
-//package name: fakeORM
+//package name: querybuilder
 
 package db
 
